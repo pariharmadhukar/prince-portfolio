@@ -28,7 +28,7 @@ const Resume: React.FC = () => {
       institution: "Ganpat University",
       period: "2023 - Present",
       status: "Pursuing",
-      gpa: "8.5/10",
+      gpa: "6.65/10",
       highlights: ["Advanced Software Engineering", "Database Management", "UI/UX Design Principles"]
     },
     {
@@ -36,7 +36,7 @@ const Resume: React.FC = () => {
       institution: "University of Gujarat",
       period: "2020 - 2023",
       status: "Completed",
-      gpa: "8.2/10",
+      gpa: "6.68/10",
       highlights: ["Business Strategy", "Financial Analysis", "Marketing Fundamentals"]
     }
   ];
